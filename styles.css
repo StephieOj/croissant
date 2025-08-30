@@ -1,0 +1,38 @@
+h1 {
+  font-size: 2.5em;
+  color: #6b4f4f;
+  text-align: center;
+  margin-top: 20px;
+}
+p {
+  font-size: 1.2em;
+  color: #333;
+  text-align: center;
+  margin: 10px 20px;
+} 
+
+.email-link {
+  align-items: center;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 15px;
+  background-color: #f4e1d2;
+  color: #6b4f4f;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #6b4f4f;
+  font-weight: bold;
+  ;
+}
