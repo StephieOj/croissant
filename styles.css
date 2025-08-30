@@ -28,11 +28,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+footer {
+  text-align: center;
+}
 
-a {
+footer a {
   margin: 0 10px;
-  text-decoration: none;
-  color: #6b4f4f;
-  font-weight: bold;
-  ;
+    color: #6b4f4f;
 }
